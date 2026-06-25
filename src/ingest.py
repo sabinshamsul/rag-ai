@@ -54,7 +54,7 @@ def build_chunks():
     print(f"Built {len(chunks)} clean chunks ready for embedding.")
     return chunks
 
-# Sanity check the output
+# Manual test
 if __name__ == "__main__":
     chunks = build_chunks()
     print("\n--- Sample chunk ---")
