@@ -1,3 +1,6 @@
+# Loads the data, joins segment text with document metadata, filters non-useful segments,
+# and returns clean text chunks.
+
 import pandas as pd
 
 from pathlib import Path
