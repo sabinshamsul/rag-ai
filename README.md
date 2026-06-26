@@ -6,6 +6,8 @@
 
 > Ask questions about AI laws and policies, get answers grounded in the actual source text with every claim cited back to the document it came from.
 
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md.svg)](https://huggingface.co/spaces/sabinshamsul/rag-ai-governance)
+
 </div>
 
 ---
